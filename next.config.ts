@@ -1,10 +1,5 @@
 import type { NextConfig } from "next";
 
-const nextConfig: NextConfig = {
-  // Webpack config for cross-platform compatibility (Turbopack not supported on Android)
-  webpack: (config) => {
-    return config;
-  },
-};
+const nextConfig: NextConfig = {};
 
 export default nextConfig;
