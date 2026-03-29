@@ -1,4 +1,4 @@
-# DayChat
+# Reconnect
 
 A mobile-first messenger clone built with Next.js 15 and Supabase.
 
